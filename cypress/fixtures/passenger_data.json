@@ -1,22 +1,22 @@
 {
-  "TRAIN_NO": "13141",
-  "TRAIN_COACH": "SL",
-  "TRAVEL_DATE": "13/11/2024",
-  "SOURCE_STATION": "NDAE",
+  "TRAIN_NO": "12863",
+  "TRAIN_COACH": "3A",
+  "TRAVEL_DATE": "26/07/2024",
+  "SOURCE_STATION": "HWH",
   "BOARDING_STATION": null,
-  "DESTINATION_STATION": "NJP",
+  "DESTINATION_STATION": "SMVB",
   "TATKAL": false,
-  "PREMIUM_TATKAL": false,
+  "PREMIUM_TATKAL": true,
   "UPI_ID_CONFIG": "9800438685@ybl",
   "PASSENGER_DETAILS": [
     {
-      "NAME": "S DEY",
-      "AGE": 26,
+      "NAME": "S ISLAM",
+      "AGE": 25,
       "GENDER": "Male",
       "SEAT": "No Preference",
       "FOOD": "No Food"
     }  ],
-  "__valid_coaches__": "2S",
+  "__valid_coaches__": "3A",
   "__valid_seats__": "No Preference",
   "__valid_genders__": "Male",
   "__valid_food_choices__": "No Food"
